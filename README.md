@@ -1,4 +1,4 @@
 # Data structure and algorithm assignment
 
-##  Group members 
+##  Group member
 - 221024290  FURAHA Moses
